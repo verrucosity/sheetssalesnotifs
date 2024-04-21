@@ -44,7 +44,7 @@ function sendEmailNotification(e) {
   var subject;
   var body;
 
-  // Write your business logic here based on the cell value
+
 
   MailApp.sendEmail({
     to: recipient,
